@@ -1,4 +1,4 @@
-# Device Tree for Xiaomi Redmi 4X (santoni)
+# WIP Unofficial Device Tree for Xiaomi Redmi 4X (santoni)
 
 ## Spec Sheet
 
